@@ -1,0 +1,23 @@
+
+div.box {
+	width: 250px;
+	display: inline-block;
+    padding: 6px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+#player {
+ width: 90%;
+}
+
+
+footer {
+  bottom: 0; 
+  background-color: #637383;
+  padding: 6px;
+  text-align: center;
+  color: white;
+}
